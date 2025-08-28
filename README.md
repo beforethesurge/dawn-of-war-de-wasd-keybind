@@ -1,6 +1,6 @@
 # Dawn of War Definitive Edition - WASD Keybinding
 
-I customized Relics moddable keybindings from you having to hold down the Shift key to move the camera around (based off Modern preset)
+I customized Relics moddable keybindings so you don't have to hold down the Shift key to move the camera around (based off Modern preset)
 - NOTE: Some abilities and build keys are still being updated to see what works best, as Shift+A or any of the other camera controls don't work for abilities/build orders
   - Will update when I experiment with it some more
 
